@@ -1,0 +1,21 @@
+# SAS generated files
+*.sas7bdat
+*.sas7bcat
+*.sas7bvpgm
+*.log
+*.lst
+
+# Output files (regenerate from code)
+outputs/tlf/*.rtf
+outputs/tlf/*.pdf
+outputs/logs/*.log
+
+# Keep markdown previews of TLF outputs
+!outputs/tlf/*.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive / confidential
+data/raw/*.sas7bdat
