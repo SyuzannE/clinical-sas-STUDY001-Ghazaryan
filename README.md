@@ -2,7 +2,7 @@
 
 > **Internship project** — Gurus LLC, Yerevan, Armenia  
 > **Programmer:** Syuzanna Ghazaryan | **Supervisor:** Hayk Nazaryan  
-> **University:** UFAR / Université Toulouse 3 – Paul Sabatier | **Period:** 7 weeks | 2026
+> **University:** UFAR / Université de Toulouse  | **Period:** 7 weeks | 2026
 
 ---
 
