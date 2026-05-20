@@ -11,10 +11,7 @@
 A **complete, production-style SAS programming pipeline** for clinical trial data processing, following international regulatory standards (**CDISC**, **FDA**, **ICH**).
 ## 🎬 Presentation Video
 
-## 🎬 Presentation Video
-
-[![Watch the presentation](https://img.youtube.com/vi/FklbFgCs4QY/maxresdefault.jpg)](https://youtu.be/FklbFgCs4QY)
-
+[![Watch the presentation](https://img.youtube.com/vi/FklbFgCs4QY/hqdefault.jpg)](https://youtu.be/FklbFgCs4QY)
 
 ```
 Raw Source Data  ──►  SDTM Domains  ──►  ADaM Datasets  ──►  TLFs
